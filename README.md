@@ -10,3 +10,4 @@ The user, using its university email, is able to log into the application and su
 
 ### Navigation flow
 
+![Navigation flow chart](./docs_assets/navigation_flow.png)
